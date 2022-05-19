@@ -1,0 +1,72 @@
+[
+    {
+      "name": "Loane André",
+      "img":"https://img.icons8.com/doodle/48/000000/anonymous-mask.png",
+      "desc":" Healthcare assistant"
+    },
+    {
+      "name":"Grégoire Sauvage",
+      "img":"https://img.icons8.com/doodle/48/000000/jake.png",
+      "desc":" Jockey"
+    },
+    {
+      "name":"Lucien Bonnet ",
+      "img":"https://img.icons8.com/office/80/000000/edvard-munch.png",
+      "desc":" Herbalist"
+    },
+    {
+        "name":"Alexia Germain",
+        "img":"https://img.icons8.com/doodle/48/000000/grey.png",
+        "desc":" Herbalist"
+    },
+    {
+        "name":"Mathys Favreau",
+        "img":"https://img.icons8.com/doodle/48/000000/homer-simpson.png",
+        "desc":" Herbalist"
+    },
+    {
+        "name":"Thibaud Adam",
+        "img":"https://img.icons8.com/color/48/000000/neo.png",
+        "desc":" Herbalist"
+    },
+    {
+        "name":"Yanick Babineaux",
+        "img":"https://img.icons8.com/color/48/000000/avatar.png",
+        "desc":" Herbalist"
+    },
+    {
+        "name":"Ernest Montagne",
+        "img":"https://img.icons8.com/office/80/000000/ninja-turtle.png",
+        "desc":" Herbalist"
+    },
+    {
+        "name":"Benjamine Noel",
+        "img":"https://img.icons8.com/office/80/000000/cheburashka.png",
+        "desc":" Herbalist"
+    },
+    {
+        "name":"Irénée Faucheux",
+        "img":"https://img.icons8.com/office/80/000000/futurama-bender--v1.png",
+        "desc":" Herbalist"
+    },
+    {
+        "name":"Gilbert Dubois",
+        "img":"https://img.icons8.com/office/80/000000/super-mario.png",
+        "desc":" Herbalist"
+    },
+    {
+        "name":"Gabriel Samuel",
+        "img":"https://img.icons8.com/office/80/000000/scream.png",
+        "desc":" Herbalist"
+    },
+    {
+        "name":"Célestin Bonheur",
+        "img":"https://img.icons8.com/office/80/000000/borg-head.png",
+        "desc":" Herbalist"
+    },
+    {
+        "name":"Marie-Louise Dupond",
+        "img":"https://img.icons8.com/office/80/000000/gremlin.png",
+        "desc":" Herbalist"
+    }
+  ]
